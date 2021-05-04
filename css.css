@@ -1,0 +1,49 @@
+/* content */
+.content{
+    position:relative;
+    border: 0.1px solid rgba(10, 135, 185, 0.205);
+    max-width: 290px;
+    margin: 0 auto;
+}
+/* select */
+.select{
+    margin: auto;
+    padding: 8px 70px;
+    border: rgb(20, 102, 134) solid 1px;
+    background: rgb(22, 155, 207);
+    font-size: 1.3em;
+    
+}
+  /* weather_block */
+  
+.weather_block {
+    margin: 20px auto ;
+    width: 150px;
+    height: 550px;
+    padding: 0 20px;
+    border: 3px solid rgb(22, 155, 207);
+    border-radius: 6px;
+    text-align: center;
+  }
+  
+  div h3 {
+    margin: 40px 0 10px 0;
+    font-size: xx-large;
+    color: rgb(47, 164, 231);
+  }
+  
+  div p {
+    padding: 23px 0;
+    border-top: 2px solid lightgray;
+    border-bottom: 2px solid lightgray;
+    font-size: xxx-large;
+  }
+  
+  div button {
+    cursor: pointer;
+    outline: none;
+    border: none;
+    width: 90px;
+    height: 45px;
+    background: rgba(47, 164, 231, 0.514);
+  }
